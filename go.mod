@@ -17,5 +17,5 @@ require (
 )
 
 // replace github.com/fclairamb/ftpserverlib => /Users/florent/go/src/github.com/fclairamb/ftpserverlib
-// replace github.com/fclairamb/afero-s3 => /Users/florent/go/src/github.com/fclairamb/afero-s3
+replace github.com/fclairamb/afero-s3 => /home/sam.weston/git/afero-s3
 // replace github.com/fclairamb/afero-gdrive => /Users/florent/go/src/github.com/fclairamb/afero-gdrive
